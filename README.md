@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Amy5888
 - 👀 I’m interested in travelling and listening music
 - 🌱 I’m currently learning software programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Amy5888/Amy5888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
